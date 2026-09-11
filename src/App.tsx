@@ -24,7 +24,15 @@ function App() {
       </main>
 
       <footer className="site-footer">
-        <p>Illustration gallery · built with Vite &amp; React</p>
+        <p>
+          <a
+            href="https://www.instagram.com/carikateture/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            https://www.instagram.com/carikateture/
+          </a>
+        </p>
       </footer>
 
       {active && (
