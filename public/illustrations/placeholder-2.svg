@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="placeholder-2.svg">
+  <rect width="800" height="600" fill="#F3EDE6"/>
+  <polygon points="400,160 520,360 280,360" fill="#D4C4B0" opacity="0.85"/>
+  <circle cx="400" cy="280" r="40" fill="#E8DFD4"/>
+  <rect x="250" y="420" width="300" height="12" rx="6" fill="#C4B5A0" opacity="0.5"/>
+  <rect x="300" y="450" width="200" height="8" rx="4" fill="#C4B5A0" opacity="0.35"/>
+  <text x="400" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#8A7A68" letter-spacing="2">PLACEHOLDER</text>
+</svg>
