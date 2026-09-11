@@ -30,6 +30,18 @@ export const illustrations: Illustration[] = [
     src: withBase('illustrations/walking-in-the-rain.jpg'),
   },
   {
+    id: 'bowling-day',
+    title: 'Bowling Day',
+    description: 'Chaos on the lawn bowls green.',
+    src: withBase('illustrations/bowling-day.jpg'),
+  },
+  {
+    id: 'cheesy-high-street',
+    title: 'Cheesy High Street',
+    description: 'A busy high street of woodlice characters.',
+    src: withBase('illustrations/cheesy-high-street.jpg'),
+  },
+  {
     id: 'rockstar',
     title: 'Rockstar',
     description: 'A frog with a red guitar and a power stance.',
