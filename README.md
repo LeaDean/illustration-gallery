@@ -21,7 +21,7 @@ npm run preview   # optional local preview of the build
 
 ## How to add illustrations
 
-1. Put your image files in `public/illustrations/`  
+1. Put your image files in `publicillustrations/`  
    (JPG, PNG, WebP, SVG, etc. are fine.)
 
 2. Open `src/data/illustrations.ts` and add an entry:
@@ -31,7 +31,7 @@ npm run preview   # optional local preview of the build
   id: 'my-piece',
   title: 'My Piece',
   description: 'Optional short note.',
-  src: '/illustrations/my-piece.jpg',
+  src: 'illustrations/my-piece.jpg',
   // omit placeholder, or set placeholder: false
 },
 ```
