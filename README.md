@@ -73,3 +73,7 @@ illustration-gallery/
 - No backend — everything is static.
 - Lightbox: click a card to enlarge; press **Escape** to close; focus is trapped while open.
 - Light dependencies only (React + Vite).
+
+## Live site
+
+After Pages deploys: https://leadean.github.io/illustration-gallery/
