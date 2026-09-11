@@ -29,4 +29,16 @@ export const illustrations: Illustration[] = [
     description: 'A rainy cobbled street and a yellow raincoat.',
     src: withBase('illustrations/walking-in-the-rain.jpg'),
   },
+  {
+    id: 'rockstar',
+    title: 'Rockstar',
+    description: 'A frog with a red guitar and a power stance.',
+    src: withBase('illustrations/rockstar.jpg'),
+  },
+  {
+    id: 'tiger',
+    title: 'Tiger',
+    description: 'A calm tiger and a frog tugging its tail.',
+    src: withBase('illustrations/tiger.jpg'),
+  },
 ]
