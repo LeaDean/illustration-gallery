@@ -15,7 +15,7 @@ function App() {
       <header className="site-header">
         <h1>{SITE_TITLE}</h1>
         <p className="intro">
-          A quiet collection of drawings and visual studies.
+          by Katy Rana Dean
         </p>
       </header>
 
