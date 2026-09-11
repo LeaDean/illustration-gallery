@@ -18,45 +18,15 @@ const withBase = (path: string) =>
  */
 export const illustrations: Illustration[] = [
   {
-    id: 'placeholder-1',
-    title: 'Soft Horizon',
-    description: 'Placeholder — replace with your own work.',
-    src: withBase('illustrations/placeholder-1.svg'),
-    placeholder: true,
+    id: 'maypole',
+    title: 'Maypole',
+    description: 'Morris dancers and a village May Day crowd.',
+    src: withBase('illustrations/maypole.jpg'),
   },
   {
-    id: 'placeholder-2',
-    title: 'Quiet Peak',
-    description: 'Placeholder — replace with your own work.',
-    src: withBase('illustrations/placeholder-2.svg'),
-    placeholder: true,
-  },
-  {
-    id: 'placeholder-3',
-    title: 'Muted Frame',
-    description: 'Placeholder — replace with your own work.',
-    src: withBase('illustrations/placeholder-3.svg'),
-    placeholder: true,
-  },
-  {
-    id: 'placeholder-4',
-    title: 'Garden Light',
-    description: 'Placeholder — replace with your own work.',
-    src: withBase('illustrations/placeholder-4.svg'),
-    placeholder: true,
-  },
-  {
-    id: 'placeholder-5',
-    title: 'Warm Bloom',
-    description: 'Placeholder — replace with your own work.',
-    src: withBase('illustrations/placeholder-5.svg'),
-    placeholder: true,
-  },
-  {
-    id: 'placeholder-6',
-    title: 'Overlapping Skies',
-    description: 'Placeholder — replace with your own work.',
-    src: withBase('illustrations/placeholder-6.svg'),
-    placeholder: true,
+    id: 'walking-in-the-rain',
+    title: 'Walking in the Rain',
+    description: 'A rainy cobbled street and a yellow raincoat.',
+    src: withBase('illustrations/walking-in-the-rain.jpg'),
   },
 ]
